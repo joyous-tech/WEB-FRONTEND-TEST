@@ -10,7 +10,7 @@ body{
 .container{
     background-color:#f8f9fa ;
     width: 90vw;
-    height: 100vh;
+    height: auto;
     margin: auto;
 }
 
